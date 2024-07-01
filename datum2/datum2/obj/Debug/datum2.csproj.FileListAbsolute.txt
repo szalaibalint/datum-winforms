@@ -1,0 +1,10 @@
+D:\progi\datumos\datum2\datum2\bin\Debug\datum2.exe.config
+D:\progi\datumos\datum2\datum2\bin\Debug\datum2.exe
+D:\progi\datumos\datum2\datum2\bin\Debug\datum2.pdb
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.csproj.AssemblyReference.cache
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.Form1.resources
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.Properties.Resources.resources
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.csproj.GenerateResource.cache
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.csproj.CoreCompileInputs.cache
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.exe
+D:\progi\datumos\datum2\datum2\obj\Debug\datum2.pdb
